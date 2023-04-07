@@ -77,10 +77,10 @@ theme_mode:
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn:
+img_cdn: https://ik.imagekit.io/majngt7xi/
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "/assets/img/favicons/avatar.jpg"
+avatar: 9246.jpeg
 
 # boolean type, the global switch for TOC in posts.
 toc: true
